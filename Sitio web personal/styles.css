@@ -1,0 +1,44 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+body {
+    background: linear-gradient(#0c1530, #5f0c5a);
+    color: #ccc;
+}   
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    border: 1px;
+}
+
+.inicio {
+    margin-top: 20px;
+}
+
+.fin {
+    margin-bottom: 20px;
+}
+
+/* Pilares */
+
+.container {
+    text-align: center;
+}
+
+ .titulo-de-pilar {
+    display: inline-block;
+    margin: 10px auto;
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+ }
+
+ .texto-de-pilar {
+    text-align: left;
+ }
